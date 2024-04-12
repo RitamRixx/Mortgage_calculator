@@ -1,5 +1,5 @@
 # Mortgage - Calculator
-[https://ritamrixx-mortgage-calculator-mortgage-calculator-rrba0s.streamlit.app](link)
+[https://ritamrixx-mortgage-calculator-mortgage-calculator-rrba0s.streamlit.app]()
 
 This is a streamlit based project written in python and deployed in streamlit cloud
 
